@@ -6,8 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <div class="marquee-container">
+    <div class="marquee-text">Dikshant Negi</div>
+      </div>    
         <p>
-          Edit <code>src/App.js</code> and Jeene laga hun pehle se jyada.
+          Edit <code>src/App.js</code> and So jao
         </p>
         <a
           className="App-link"
@@ -23,3 +26,4 @@ function App() {
 }
 
 export default App;
+
